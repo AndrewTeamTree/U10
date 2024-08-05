@@ -1,6 +1,6 @@
-# Getting Started with full_stack_app_with_react_and_a_rest_api
+# Getting Started with Full Stack App React and a Rest Api
 
-
+`Unit 10`
 
 ## Available Scripts
 
@@ -11,4 +11,4 @@ In the api directory, you can run:
 In the client directory, you can run:
 
 ### `npm i` then `npm start`
-# U10
+
